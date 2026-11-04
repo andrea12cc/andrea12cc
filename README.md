@@ -1,7 +1,7 @@
 
 # ¡Hola! 👋 Soy Andrea
 
-🎀 ¡Bienvenido/a a mi perfil de GitHub!
+ ¡Bienvenido/a a mi perfil de GitHub!
 
 - 📍 Soy de Pomuch, Campeche, México.
 - 🎓 Estudio la carrera de Programación en el CECyTE.
@@ -22,7 +22,7 @@
 -  Git y GitHub
 
 
-### 💗 ¡Gracias por visitar mi perfil!
+### ¡Gracias por visitar mi perfil!
 
 
 <!--
